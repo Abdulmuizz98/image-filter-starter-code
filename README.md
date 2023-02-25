@@ -10,7 +10,7 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 
 ## Project Elastic Beanstalk Endpoint
 
-[Endpoint](http://image-filter-starter-code-dev2222222.us-east-1.elasticbeanstalk.com/)
+[http://image-filter-starter-code-dev2222222.us-east-1.elasticbeanstalk.com](http://image-filter-starter-code-dev2222222.us-east-1.elasticbeanstalk.com/)
 
 ## Tasks
 
